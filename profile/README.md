@@ -1,2 +1,2 @@
 ### Hey there! 👋
-You've found the organization page for NCEAHelp! 
+You've found the organization page for NCEAHelp! Unfortunately, due to the nature of projects in this organization, most repositories and GitHub Projects boards are private indefinitely. Not all organization memberships are public either, though users in the organization can elect to set their visibility to public. We may release source code to the public (by publicizing our repositories) in the future, but for now since we're still in the early stages of our project, the repositories remain private.
